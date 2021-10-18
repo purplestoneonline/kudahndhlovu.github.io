@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WELCOME TO QCONEX 00 HUB
 
 You can use the [editor on GitHub](https://github.com/stingz93/kudahndhlovu/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
